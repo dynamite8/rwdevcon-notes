@@ -1,3 +1,0 @@
-## Synopsis
-
-Machine learning notes
